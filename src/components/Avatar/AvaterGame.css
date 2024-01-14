@@ -1,0 +1,8 @@
+/* .avatarContainer {
+  width: 512px;
+  margin: 16px auto;
+} */
+.avatar {
+  border: 5px solid seagreen;
+  border-radius: 50%;
+}
