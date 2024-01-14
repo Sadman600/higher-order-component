@@ -1,9 +1,11 @@
 import Avatar from "./components/Avatar/Avatar";
+import Users from "./components/Users/Users";
 
 function App() {
   return (
     <>
-      <Avatar />
+      {/* <Avatar /> */}
+      <Users />
     </>
   );
 }
